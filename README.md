@@ -29,8 +29,8 @@ A simple warehouse management API built with Laravel 12. This project allows man
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:andrejandrej2013/warehouse-api.git
+   cd warehouse-api
    ```
 
 2. Install dependencies:
