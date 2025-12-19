@@ -17,7 +17,7 @@ A simple warehouse management API built with Laravel 12. This project allows man
 
 ## Requirements
 
-- PHP 8.4
+- PHP >= 8.2
 - Composer
 - SQLite
 - Laravel 12
